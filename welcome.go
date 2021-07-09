@@ -1,5 +1,5 @@
 package learngolang
 
 func Welcome() string {
-	return "Welcome"
+	return "Welcome to v1.0.1"
 }
